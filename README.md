@@ -10,6 +10,7 @@
 | GPIO 6      | MOSI  |
 | GPIO 5      | MISO   |
 
+
 ## Required Libraries In Arduino IDE
 
 - Arduino
