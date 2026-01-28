@@ -10,6 +10,8 @@
 | GPIO 6      | MOSI  |
 | GPIO 5      | MISO   |
 
+<img width="1415" height="682" alt="image" src="https://github.com/user-attachments/assets/4b6a3dda-9927-4f3a-bc2d-52e5dc5b2a40" />
+
 
 ## Required Libraries In Arduino IDE
 
